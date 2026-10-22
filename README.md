@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Davilsonn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning how to Program in Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Studying Computer Science at USP (ICMC)
 
-<!---
-Davilsonn/Davilsonn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 
